@@ -357,6 +357,2746 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 151.13 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00241ad1-51e7-42fe-a80a-b1ba702eb4ea")
+	)
+	(junction
+		(at 183.515 71.755)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "021dbd1a-d0a9-408f-a373-28de6583b47b")
+	)
+	(junction
+		(at 132.715 104.775)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "081c2d1b-a8c6-41b1-9f37-4dd231c9aacc")
+	)
+	(junction
+		(at 113.665 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08618db7-c606-4233-bc92-5268f1f726ad")
+	)
+	(junction
+		(at 132.715 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13743422-3738-43b0-b02a-44fedff503ea")
+	)
+	(junction
+		(at 127.635 120.015)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15c0039b-e35f-4596-9457-016ad85f816d")
+	)
+	(junction
+		(at 169.545 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17d9c0a1-d0eb-418d-82c1-188962eb3318")
+	)
+	(junction
+		(at 113.665 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a1a573c-b5d3-4ce4-929f-b72e61a177fc")
+	)
+	(junction
+		(at 165.1 120.015)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "225adab1-78e5-452f-881b-e5f00513344f")
+	)
+	(junction
+		(at 169.545 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2770a2ab-9257-4a4d-bdad-d903f259afe6")
+	)
+	(junction
+		(at 127.635 103.505)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29b9a575-c028-4948-aaeb-d211f138d008")
+	)
+	(junction
+		(at 151.13 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "305f4cfd-6e07-488b-b85f-42c4db3a376d")
+	)
+	(junction
+		(at 127.635 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47e8e2c2-6514-4679-99a7-ba001358e2c3")
+	)
+	(junction
+		(at 109.22 120.015)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53368396-9a79-4eda-8900-c8b579bf6df4")
+	)
+	(junction
+		(at 201.93 103.505)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "54d5d614-00fc-4aa9-bb4a-c6d597fcb999")
+	)
+	(junction
+		(at 151.13 104.775)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61db1178-149d-4380-92ae-043d6b188ed6")
+	)
+	(junction
+		(at 146.685 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6223a5c4-1beb-4a67-9384-54a1e86cec5e")
+	)
+	(junction
+		(at 169.545 104.775)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6268933b-9751-4297-813f-41d0ffa64254")
+	)
+	(junction
+		(at 201.93 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "645b697c-45ff-491f-9417-7c15b5221c77")
+	)
+	(junction
+		(at 127.635 71.755)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6bbc71ff-405e-4b9d-9894-1105146b7c4c")
+	)
+	(junction
+		(at 151.13 56.515)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "799305d9-ac59-47c3-8a8d-61a80ab39172")
+	)
+	(junction
+		(at 183.515 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84b22b2f-076f-4584-9fa6-89d7f601b406")
+	)
+	(junction
+		(at 201.93 120.015)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8595a1d7-793e-466a-afde-14b7f377781d")
+	)
+	(junction
+		(at 183.515 120.015)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88a4d926-65ea-4ee8-90a6-fe45cd4b0975")
+	)
+	(junction
+		(at 132.715 88.265)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b5b0cbb-f3d4-45f7-b8be-a368bdb9242c")
+	)
+	(junction
+		(at 165.1 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b8a3db2-cc77-4037-b8c5-fbc389c4e83d")
+	)
+	(junction
+		(at 201.93 71.755)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ca57194-4956-4c0b-8bc2-df3753844f56")
+	)
+	(junction
+		(at 169.545 88.265)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ef7d69a-9a90-4dc3-8397-c8bb487ed5d8")
+	)
+	(junction
+		(at 113.665 56.515)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90eea96b-e407-4043-a9fe-22dd2099627e")
+	)
+	(junction
+		(at 132.715 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93c9dedd-de1d-473b-a05e-7ea85a6d8693")
+	)
+	(junction
+		(at 132.715 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95f4d49b-9b51-4654-b245-7388fa3e520c")
+	)
+	(junction
+		(at 113.665 104.775)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0872a03-49e9-412c-9244-326c22e75865")
+	)
+	(junction
+		(at 151.13 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1b09425-7dbb-4b4d-8c26-7495463699e4")
+	)
+	(junction
+		(at 113.665 88.265)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a3f73239-7a9a-4844-a7cd-e5c3caef0cdc")
+	)
+	(junction
+		(at 183.515 103.505)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a81f8862-19c5-477d-af73-f36c018019a8")
+	)
+	(junction
+		(at 146.685 103.505)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a98d9be1-d27c-46c4-8cff-ea9fe36dd5c0")
+	)
+	(junction
+		(at 169.545 56.515)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca1b8f0a-f565-4319-86d9-eed362790f68")
+	)
+	(junction
+		(at 113.665 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "caa79e61-5c6c-4c25-9122-faf7446b0b45")
+	)
+	(junction
+		(at 165.1 71.755)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce14ff6a-2792-4510-90fd-e8adf2c4fa5c")
+	)
+	(junction
+		(at 151.13 88.265)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf63e9f5-51ea-4045-a16f-012c9106713d")
+	)
+	(junction
+		(at 146.685 71.755)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2da0106-bd90-4908-811a-532a3b49f40f")
+	)
+	(junction
+		(at 165.1 103.505)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d362c228-edfd-42d3-b51c-1d3046dfbb94")
+	)
+	(junction
+		(at 169.545 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d52e24a1-f277-4b37-913d-37249fb0123d")
+	)
+	(junction
+		(at 109.22 103.505)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d67ae6b0-5cd1-4973-a919-97c3a0d41e03")
+	)
+	(junction
+		(at 146.685 120.015)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e412ecb3-9f05-4e82-9195-051df15242f3")
+	)
+	(junction
+		(at 109.22 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e62c0b70-693b-417b-9a5c-3b6bd02627fc")
+	)
+	(junction
+		(at 109.22 71.755)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee1ce024-27c8-4496-91f4-f1185f823bf9")
+	)
+	(junction
+		(at 132.715 56.515)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc5fb741-8123-413e-ab10-9fa666a091c7")
+	)
+	(wire
+		(pts
+			(xy 165.1 135.89) (xy 165.1 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0435aec7-83ee-4ed1-ab59-357b432945db")
+	)
+	(wire
+		(pts
+			(xy 95.25 64.135) (xy 95.25 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0449dbed-22bd-4490-b6d6-cdef1ee38bc4")
+	)
+	(wire
+		(pts
+			(xy 179.705 120.015) (xy 183.515 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "053e8d86-826e-4071-a559-ec7912af2e35")
+	)
+	(wire
+		(pts
+			(xy 151.13 72.39) (xy 151.13 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "090942e8-db9b-4fa3-b687-074566b2214c")
+	)
+	(wire
+		(pts
+			(xy 132.715 104.775) (xy 132.715 112.395)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a597cce-272e-4dec-ba0a-7e4ba3ddb3ff")
+	)
+	(wire
+		(pts
+			(xy 132.715 88.265) (xy 151.13 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "104f8c4d-b116-4f28-a40e-3dd5807b3d06")
+	)
+	(wire
+		(pts
+			(xy 183.515 71.755) (xy 183.515 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13077ebe-5ba9-4763-951c-eaa740c10f26")
+	)
+	(wire
+		(pts
+			(xy 198.12 120.015) (xy 201.93 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1484c8fb-a11b-42f8-b172-26133040278b")
+	)
+	(wire
+		(pts
+			(xy 113.665 120.65) (xy 113.665 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1533b3c2-d207-40f6-ab7d-f12e4a9f6929")
+	)
+	(wire
+		(pts
+			(xy 146.685 103.505) (xy 146.685 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1743fd81-3857-4261-ae79-d464c0402689")
+	)
+	(wire
+		(pts
+			(xy 151.13 88.265) (xy 169.545 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17c185ad-d779-417d-9262-5315a1d87076")
+	)
+	(wire
+		(pts
+			(xy 161.29 120.015) (xy 165.1 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d5df273-496f-46da-9255-0e701862b821")
+	)
+	(wire
+		(pts
+			(xy 169.545 104.775) (xy 169.545 112.395)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f3eda35-e82c-47af-9516-0fac29556d79")
+	)
+	(wire
+		(pts
+			(xy 169.545 72.39) (xy 169.545 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22028aa2-9270-4cbf-9fdd-51409ecf4a8f")
+	)
+	(wire
+		(pts
+			(xy 109.22 103.505) (xy 109.22 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2326bd42-2390-4ccb-a27f-1d60805a0862")
+	)
+	(wire
+		(pts
+			(xy 198.12 71.755) (xy 201.93 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24fcfa8d-ebd3-4e9e-88aa-d0bd26b777ad")
+	)
+	(wire
+		(pts
+			(xy 151.13 56.515) (xy 169.545 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2567eeb9-4377-4d36-a701-61bb55eeb244")
+	)
+	(wire
+		(pts
+			(xy 165.1 55.88) (xy 161.29 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b28b1a0-b366-4849-8d13-ae630b7ac659")
+	)
+	(wire
+		(pts
+			(xy 179.705 71.755) (xy 183.515 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ed2a11a-660e-4de0-990f-dad4c2601d3e")
+	)
+	(wire
+		(pts
+			(xy 105.41 135.89) (xy 109.22 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fab9457-1d4e-40b6-8272-8b38a1ff7070")
+	)
+	(wire
+		(pts
+			(xy 113.665 40.64) (xy 113.665 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3130e58b-58d4-4fca-aa9a-980835500c4e")
+	)
+	(wire
+		(pts
+			(xy 151.13 120.65) (xy 151.13 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "316ccd96-6b06-442d-a03f-95f253fdee6d")
+	)
+	(wire
+		(pts
+			(xy 113.665 88.265) (xy 132.715 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "360afd6b-3277-4d41-a027-5bf77374c768")
+	)
+	(wire
+		(pts
+			(xy 132.715 72.39) (xy 132.715 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3703043b-7dad-44f4-828f-aae57f6cc795")
+	)
+	(wire
+		(pts
+			(xy 183.515 87.63) (xy 183.515 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bb25532-a134-49a9-8be6-f75138be7da7")
+	)
+	(wire
+		(pts
+			(xy 187.96 40.64) (xy 187.96 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c044ab6-27da-4ab6-a03c-5c1d756f0ccd")
+	)
+	(wire
+		(pts
+			(xy 201.93 71.755) (xy 201.93 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cb3b7e6-6dee-4df3-b226-9857b36d070e")
+	)
+	(wire
+		(pts
+			(xy 105.41 71.755) (xy 109.22 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4007c40e-3548-4141-b41b-fa2f531b080e")
+	)
+	(wire
+		(pts
+			(xy 132.715 104.775) (xy 151.13 104.775)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "408e5459-2e78-4170-b8c4-abf0ed866be3")
+	)
+	(wire
+		(pts
+			(xy 151.13 40.64) (xy 169.545 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41ec1488-5525-48e9-93c8-d3c8b05eeed2")
+	)
+	(wire
+		(pts
+			(xy 169.545 88.265) (xy 169.545 95.885)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42bbe08a-8591-4d93-a523-bd8d54888174")
+	)
+	(wire
+		(pts
+			(xy 161.29 71.755) (xy 165.1 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46964046-c4f5-480a-8557-382cfbb40db2")
+	)
+	(wire
+		(pts
+			(xy 109.22 71.755) (xy 109.22 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cc9120b-a494-49bd-881e-ef908a42d43a")
+	)
+	(wire
+		(pts
+			(xy 183.515 135.89) (xy 183.515 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51cdab21-1709-495c-a30b-96bb5efa2967")
+	)
+	(wire
+		(pts
+			(xy 123.825 120.015) (xy 127.635 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5383264e-ccd8-4f2c-8f89-a57ab30686fd")
+	)
+	(wire
+		(pts
+			(xy 169.545 88.265) (xy 187.96 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "586f463b-a524-42c4-ad40-114a0061d400")
+	)
+	(wire
+		(pts
+			(xy 169.545 72.39) (xy 187.96 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59b2c078-e50a-4c12-8145-27ee5cede4e2")
+	)
+	(wire
+		(pts
+			(xy 132.715 56.515) (xy 132.715 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a3098df-4cf3-4b7d-9e2a-cb43c3c68bbd")
+	)
+	(wire
+		(pts
+			(xy 113.665 88.265) (xy 113.665 95.885)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bdf8466-cbcf-4554-9bbd-ac2393a3f2be")
+	)
+	(wire
+		(pts
+			(xy 183.515 120.015) (xy 183.515 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5da98d13-7572-400e-92db-90f768cbf2fe")
+	)
+	(wire
+		(pts
+			(xy 179.705 135.89) (xy 183.515 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e1a167c-f7a7-4317-8dfc-78ec35ec1a97")
+	)
+	(wire
+		(pts
+			(xy 113.665 120.65) (xy 132.715 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef6ecc8-c0f4-4ca3-a9a6-18a5a495d13c")
+	)
+	(wire
+		(pts
+			(xy 95.25 80.01) (xy 95.25 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b01ecc9-8db5-426a-b610-da9c89d69c7c")
+	)
+	(wire
+		(pts
+			(xy 113.665 40.64) (xy 132.715 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c655f8c-b673-4a44-aca5-8024d9d9063b")
+	)
+	(wire
+		(pts
+			(xy 127.635 87.63) (xy 127.635 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e7140de-4686-4cd2-ba84-4f8a60dd8a25")
+	)
+	(wire
+		(pts
+			(xy 169.545 40.64) (xy 187.96 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ea783b9-76eb-4d7a-a6c5-0ff5e7e9b7f5")
+	)
+	(wire
+		(pts
+			(xy 165.1 120.015) (xy 165.1 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "723ad496-1dfd-4ed8-82e3-19970b941d0b")
+	)
+	(wire
+		(pts
+			(xy 165.1 71.755) (xy 165.1 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "727e8101-8b52-4c94-afc6-0669e8d29806")
+	)
+	(wire
+		(pts
+			(xy 132.715 40.64) (xy 132.715 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76859d88-690b-4cfe-ac20-f3ddb338f10c")
+	)
+	(wire
+		(pts
+			(xy 201.93 135.89) (xy 201.93 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c2db73e-4e41-4793-b74c-a688ff9b2b3a")
+	)
+	(wire
+		(pts
+			(xy 146.685 87.63) (xy 146.685 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dfda389-c427-43c3-927f-f3b3fa021809")
+	)
+	(wire
+		(pts
+			(xy 198.12 135.89) (xy 201.93 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e528de6-8491-4916-8fe1-b70eb4d8c59b")
+	)
+	(wire
+		(pts
+			(xy 105.41 120.015) (xy 109.22 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8445cdf6-6593-4ba5-b9bd-0df85ba48299")
+	)
+	(wire
+		(pts
+			(xy 201.93 103.505) (xy 201.93 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86db84e2-f278-4702-9bc2-13d52835f58d")
+	)
+	(wire
+		(pts
+			(xy 127.635 120.015) (xy 127.635 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8865ef00-4f59-4a61-9af4-89d97b20c434")
+	)
+	(wire
+		(pts
+			(xy 146.685 55.88) (xy 142.875 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b465c00-7703-467e-95f8-2c6eb2bea0c1")
+	)
+	(wire
+		(pts
+			(xy 151.13 88.265) (xy 151.13 95.885)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c62d797-069c-455a-9920-356d5914cb17")
+	)
+	(wire
+		(pts
+			(xy 183.515 103.505) (xy 183.515 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e38b7b0-8312-4de2-8118-cf05606cfc00")
+	)
+	(wire
+		(pts
+			(xy 142.875 135.89) (xy 146.685 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f0a87c7-eb68-46a1-8f17-50941801bac2")
+	)
+	(wire
+		(pts
+			(xy 151.13 120.65) (xy 169.545 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9037ea77-6756-4f67-a2c8-8a9810d9d678")
+	)
+	(wire
+		(pts
+			(xy 151.13 104.775) (xy 169.545 104.775)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "923d4c29-50d9-4fbc-953d-385d3a826a1f")
+	)
+	(wire
+		(pts
+			(xy 142.875 103.505) (xy 146.685 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95eec5f9-07c2-4c3e-b91a-14d036ac29af")
+	)
+	(wire
+		(pts
+			(xy 201.93 120.015) (xy 201.93 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "965736df-d05a-43ef-95c8-23100ebcb30c")
+	)
+	(wire
+		(pts
+			(xy 123.825 71.755) (xy 127.635 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "988b60a6-606a-4fa4-bf05-db19a4442718")
+	)
+	(wire
+		(pts
+			(xy 169.545 120.65) (xy 187.96 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "993f98e8-6cbb-4012-a0e8-d50ca52d013f")
+	)
+	(wire
+		(pts
+			(xy 113.665 104.775) (xy 113.665 112.395)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99ff2be3-4078-48c1-b049-37a63b2ca673")
+	)
+	(wire
+		(pts
+			(xy 132.715 72.39) (xy 151.13 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a02c872-db06-4791-9681-5512bf7bae30")
+	)
+	(wire
+		(pts
+			(xy 146.685 135.89) (xy 146.685 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c90f44d-695a-44a0-86cc-ed7ddd13c83f")
+	)
+	(wire
+		(pts
+			(xy 127.635 103.505) (xy 127.635 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ce0817e-0bb3-484a-9710-bf04309b4c37")
+	)
+	(wire
+		(pts
+			(xy 95.25 120.65) (xy 113.665 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ef10a79-271b-43fa-987d-9ebecd8a14f9")
+	)
+	(wire
+		(pts
+			(xy 142.875 120.015) (xy 146.685 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fc45d09-14a7-4ebd-b638-553c15023ea7")
+	)
+	(wire
+		(pts
+			(xy 201.93 55.88) (xy 198.12 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a05694ba-0aef-4ad4-a5a1-f735cf112d9c")
+	)
+	(wire
+		(pts
+			(xy 95.25 56.515) (xy 113.665 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1b0e0f1-0f7e-4eae-b075-0c015fc985a4")
+	)
+	(wire
+		(pts
+			(xy 127.635 55.88) (xy 123.825 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a304ee1d-295c-4fac-b914-c225dbc0e81d")
+	)
+	(wire
+		(pts
+			(xy 151.13 72.39) (xy 169.545 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6bd6a5e-00d3-4df4-9951-7ec59694a4cd")
+	)
+	(wire
+		(pts
+			(xy 132.715 120.65) (xy 132.715 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a72ce40f-3df6-4afe-a19e-4952f401de7c")
+	)
+	(wire
+		(pts
+			(xy 142.875 71.755) (xy 146.685 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9106ba3-94b6-491f-a848-bb47b76ac009")
+	)
+	(wire
+		(pts
+			(xy 127.635 135.89) (xy 127.635 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "addfe65a-36c1-46cf-9dfc-045c06615eaf")
+	)
+	(wire
+		(pts
+			(xy 95.25 88.265) (xy 113.665 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afd6863c-c791-4794-8d18-ec88d15c4227")
+	)
+	(wire
+		(pts
+			(xy 105.41 87.63) (xy 109.22 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b01e39e7-cd95-469b-abc4-83e5ac4756b2")
+	)
+	(wire
+		(pts
+			(xy 198.12 87.63) (xy 201.93 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6a3b443-a79a-444a-a4ce-463e128b1b60")
+	)
+	(wire
+		(pts
+			(xy 95.25 112.395) (xy 95.25 104.775)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7145147-09f6-453b-8094-c34ec8c650b3")
+	)
+	(wire
+		(pts
+			(xy 132.715 56.515) (xy 151.13 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b88c17a8-3436-4a79-b14c-284ff1805dd7")
+	)
+	(wire
+		(pts
+			(xy 123.825 135.89) (xy 127.635 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8d8f314-ba8d-442c-9130-df86712e20e4")
+	)
+	(wire
+		(pts
+			(xy 132.715 88.265) (xy 132.715 95.885)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9291633-2712-496c-9741-7ed1d2041260")
+	)
+	(wire
+		(pts
+			(xy 187.96 56.515) (xy 187.96 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baa171a7-e36e-4ced-9715-2d19e660153d")
+	)
+	(wire
+		(pts
+			(xy 132.715 40.64) (xy 151.13 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb189898-3704-4175-a25a-3a9ceb936c2c")
+	)
+	(wire
+		(pts
+			(xy 95.25 48.26) (xy 95.25 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb40e9ac-44ff-4ae5-914c-619930cc2843")
+	)
+	(wire
+		(pts
+			(xy 187.96 88.265) (xy 187.96 95.885)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb8003e7-d666-4549-82a2-83cc3234e754")
+	)
+	(wire
+		(pts
+			(xy 113.665 56.515) (xy 132.715 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfb1d55c-9749-4099-a362-fe0092d9fccc")
+	)
+	(wire
+		(pts
+			(xy 201.93 87.63) (xy 201.93 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0648411-6f47-4237-b9f3-540396356653")
+	)
+	(wire
+		(pts
+			(xy 165.1 87.63) (xy 165.1 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c14580f9-c343-4669-84dd-8ceb30fe621e")
+	)
+	(wire
+		(pts
+			(xy 169.545 56.515) (xy 187.96 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c210ed3e-d20e-4245-9028-bd14e84c6a88")
+	)
+	(wire
+		(pts
+			(xy 187.96 72.39) (xy 187.96 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3b62ca3-0fa3-4bbd-9954-ae26cb78e87f")
+	)
+	(wire
+		(pts
+			(xy 183.515 55.88) (xy 179.705 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c568f38f-bad5-4836-983f-5fc0a4aa40b1")
+	)
+	(wire
+		(pts
+			(xy 169.545 104.775) (xy 187.96 104.775)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5a19be8-3cb1-451a-a75a-f6a3e13db916")
+	)
+	(wire
+		(pts
+			(xy 187.96 104.775) (xy 187.96 112.395)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6f5a127-8e72-4923-81b3-3fc4517f4c18")
+	)
+	(wire
+		(pts
+			(xy 198.12 103.505) (xy 201.93 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9d6330c-f227-4252-81a3-149c113cd9e4")
+	)
+	(wire
+		(pts
+			(xy 151.13 40.64) (xy 151.13 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbcba25c-ffb4-43ab-9730-894896e4bc66")
+	)
+	(wire
+		(pts
+			(xy 187.96 120.65) (xy 187.96 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd22a992-7125-43fb-b8be-626e53b3f94b")
+	)
+	(wire
+		(pts
+			(xy 109.22 55.88) (xy 105.41 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd77a332-c036-41af-a8b2-4a0aa94c0bf2")
+	)
+	(wire
+		(pts
+			(xy 113.665 72.39) (xy 132.715 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd7c3d8b-3aa8-42f3-bb18-b6d8cb9e221e")
+	)
+	(wire
+		(pts
+			(xy 161.29 103.505) (xy 165.1 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce4ccccc-a4b8-40e8-b7cb-c3cbb0e14f96")
+	)
+	(wire
+		(pts
+			(xy 179.705 87.63) (xy 183.515 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cecd42c3-c41f-496d-9b5d-d77c39fef1d5")
+	)
+	(wire
+		(pts
+			(xy 123.825 87.63) (xy 127.635 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8958151-b050-499c-b3f4-6252e02f1b83")
+	)
+	(wire
+		(pts
+			(xy 127.635 71.755) (xy 127.635 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db5be162-ce03-4834-b9ca-be37096a4691")
+	)
+	(wire
+		(pts
+			(xy 113.665 104.775) (xy 132.715 104.775)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbffa28d-9a36-4b27-997a-6fdfe7caa198")
+	)
+	(wire
+		(pts
+			(xy 95.25 128.27) (xy 95.25 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc7244ea-024b-4115-979d-4041c494d1e8")
+	)
+	(wire
+		(pts
+			(xy 95.25 104.775) (xy 113.665 104.775)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de9295c7-6e44-4150-bcd9-74e2f0ae7edb")
+	)
+	(wire
+		(pts
+			(xy 161.29 135.89) (xy 165.1 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0d4c20e-50f5-4872-9b9c-fe0159f6ebf2")
+	)
+	(wire
+		(pts
+			(xy 113.665 56.515) (xy 113.665 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1c30bc1-13d3-4951-b8ae-78a37d6932f9")
+	)
+	(wire
+		(pts
+			(xy 123.825 103.505) (xy 127.635 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e32e6323-2dac-463b-bd83-0b4f9e43a118")
+	)
+	(wire
+		(pts
+			(xy 95.25 40.64) (xy 113.665 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e380b6c4-155d-48b2-99ae-9c7674e3de53")
+	)
+	(wire
+		(pts
+			(xy 146.685 120.015) (xy 146.685 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3f76245-b30a-48bd-bf5c-a91ef85be3e3")
+	)
+	(wire
+		(pts
+			(xy 109.22 120.015) (xy 109.22 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e704c75c-75e5-40e6-9988-561967d5c333")
+	)
+	(wire
+		(pts
+			(xy 151.13 56.515) (xy 151.13 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea5c3253-3d50-4eca-a661-78c5a5451702")
+	)
+	(wire
+		(pts
+			(xy 179.705 103.505) (xy 183.515 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea5d8778-15e3-488d-9e26-a133b10dd85a")
+	)
+	(wire
+		(pts
+			(xy 161.29 87.63) (xy 165.1 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eda01c7b-287c-4b45-8f10-e5a2b04aa64c")
+	)
+	(wire
+		(pts
+			(xy 169.545 56.515) (xy 169.545 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef79b8e6-cd7b-41cb-a459-9e5cdf32e02a")
+	)
+	(wire
+		(pts
+			(xy 105.41 103.505) (xy 109.22 103.505)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0d34974-1bc7-4135-bcb3-d637d4278817")
+	)
+	(wire
+		(pts
+			(xy 95.25 95.885) (xy 95.25 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f17d7989-0199-4da7-bd09-ca2a115661ca")
+	)
+	(wire
+		(pts
+			(xy 151.13 104.775) (xy 151.13 112.395)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4434f9c-adec-40d3-a127-561fc0e8abd3")
+	)
+	(wire
+		(pts
+			(xy 142.875 87.63) (xy 146.685 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4f210d8-ad46-4de0-897e-9d3d3b105292")
+	)
+	(wire
+		(pts
+			(xy 109.22 135.89) (xy 109.22 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7e8e607-cbe9-4cca-aafa-90481159ee1b")
+	)
+	(wire
+		(pts
+			(xy 113.665 72.39) (xy 113.665 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8c1da50-64c6-44dd-b834-0f665fffba17")
+	)
+	(wire
+		(pts
+			(xy 146.685 71.755) (xy 146.685 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8ff9a1f-0786-4795-8b19-770dd7cbeb3d")
+	)
+	(wire
+		(pts
+			(xy 95.25 72.39) (xy 113.665 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa877ed9-c949-4181-b41d-68956b257585")
+	)
+	(wire
+		(pts
+			(xy 109.22 87.63) (xy 109.22 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faddc061-2676-46cf-8408-793bba543eda")
+	)
+	(wire
+		(pts
+			(xy 169.545 40.64) (xy 169.545 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb1b604f-9b71-417e-a8c8-bcd695e75b93")
+	)
+	(wire
+		(pts
+			(xy 132.715 120.65) (xy 151.13 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc3f3425-2de1-4267-87c8-397dc19056cd")
+	)
+	(wire
+		(pts
+			(xy 169.545 120.65) (xy 169.545 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd61af0d-3f0a-4a1c-8bc8-e2dad4ec5fcc")
+	)
+	(wire
+		(pts
+			(xy 165.1 103.505) (xy 165.1 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe911e8a-77de-4ab7-a0c1-a7f6673a15cb")
+	)
+	(hierarchical_label "row5"
+		(shape input)
+		(at 95.25 120.65 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "144ea25a-99cc-4de1-92e2-4495d5f4af52")
+	)
+	(hierarchical_label "col1"
+		(shape input)
+		(at 127.635 135.89 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "23dac981-d358-4920-b243-dfbb1ae7f013")
+	)
+	(hierarchical_label "row3"
+		(shape input)
+		(at 95.25 88.265 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "249109c7-d366-44ee-b4ec-5cdc4406d984")
+	)
+	(hierarchical_label "col2"
+		(shape input)
+		(at 146.685 135.89 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3d9ba0c9-8071-41b9-8b12-48b7f716e7de")
+	)
+	(hierarchical_label "col3"
+		(shape input)
+		(at 165.1 135.89 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "57f464f3-eda5-49bf-b819-a85457f527b1")
+	)
+	(hierarchical_label "row4"
+		(shape input)
+		(at 95.25 104.775 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "588cb7ed-5b0d-495a-9211-9d183eee523c")
+	)
+	(hierarchical_label "col5"
+		(shape input)
+		(at 201.93 135.89 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "597b7e9b-07f7-45c9-974a-ea80076eb1b6")
+	)
+	(hierarchical_label "row2"
+		(shape input)
+		(at 95.25 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "714437e9-5aee-4f46-b6a0-9f3bdad82c9a")
+	)
+	(hierarchical_label "col4"
+		(shape input)
+		(at 183.515 135.89 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7ff19b8b-4be5-442b-a2a2-09bcd35722dc")
+	)
+	(hierarchical_label "row0"
+		(shape input)
+		(at 95.25 40.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b1e02432-81ac-4bec-b521-8f01d75ff043")
+	)
+	(hierarchical_label "row1"
+		(shape input)
+		(at 95.25 56.515 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c5ec58f9-a998-4aa6-be3f-48013d783586")
+	)
+	(hierarchical_label "col0"
+		(shape input)
+		(at 109.22 135.89 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d72bdc10-4c49-46c5-a5ba-4867fe9f3170")
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 198.12 99.695 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "063f7d16-faa6-4869-b1f3-ba0c65b91d09")
+		(property "Reference" "D24"
+			(at 192.405 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 201.295 100.9649 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 202.565 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 198.12 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 198.12 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 198.12 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4c175802-550a-42f0-be25-7bee5220c3f2")
+		)
+		(pin "1"
+			(uuid "a07dee0e-6d40-43b5-af84-6084df472eb8")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 118.745 95.885 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "07b9a70b-1b85-473e-b146-7cbb6bc29c33")
+		(property "Reference" "SW16"
+			(at 118.745 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 118.745 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 118.745 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.745 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 118.745 95.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4c2c5f4e-7b67-474f-b175-45d90815be6c")
+		)
+		(pin "2"
+			(uuid "8d7a291d-dd7b-49cc-9f07-4b6c7750f42f")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 161.29 132.08 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0a49c539-52c2-41ed-82cc-c07a2c6601de")
+		(property "Reference" "D32"
+			(at 155.575 131.445 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 164.465 133.3499 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 165.735 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 161.29 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 161.29 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 161.29 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 161.29 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "56d61c23-a18d-4338-9d77-9da903f53b03")
+		)
+		(pin "1"
+			(uuid "63b1cdf8-fcf2-4c50-a25c-a64df32c4994")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 179.705 67.945 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "163b21f1-89af-41d7-ba90-8409509e41f8")
+		(property "Reference" "D11"
+			(at 173.99 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 182.88 69.2149 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 184.15 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 179.705 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 179.705 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 179.705 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 179.705 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c8e46ca1-6880-40cf-ba96-f38d0bcd758d")
+		)
+		(pin "1"
+			(uuid "b198b408-0316-47c5-b26d-9a51835ef9ed")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 179.705 132.08 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1bb2eac8-b1dd-40f6-9fbe-31c847b52a13")
+		(property "Reference" "D34"
+			(at 173.99 131.445 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 182.88 133.3499 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 184.15 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 179.705 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 179.705 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 179.705 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 179.705 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "222a6a2b-4367-44f0-a39e-d26782200759")
+		)
+		(pin "1"
+			(uuid "8957e475-171b-4059-ae63-2b031c36e745")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 100.33 64.135 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1ddffb4a-366b-46e0-ab25-9ba405fa3e03")
+		(property "Reference" "SW7"
+			(at 100.33 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 100.33 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 100.33 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 100.33 64.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4a24ec2f-e5ac-489e-870d-91e1da17a00a")
+		)
+		(pin "2"
+			(uuid "755484e2-61e2-4bcc-89bd-2e5a20ff56da")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 156.21 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1f96e027-9a60-45b3-ab78-a6e10376f5ec")
+		(property "Reference" "SW19"
+			(at 156.21 75.565 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 156.21 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 156.21 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 156.21 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4dd38025-0933-4a9c-9644-3ad7edec022f")
+		)
+		(pin "2"
+			(uuid "8ec9c709-6589-45bb-96f2-b6180a4cb887")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 118.745 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1fb28053-2cca-40e7-8f9d-369638dff845")
+		(property "Reference" "SW15"
+			(at 118.745 75.565 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 118.745 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 118.745 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.745 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 118.745 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "af3d5004-2561-4de7-a8c6-dbdabf23a294")
+		)
+		(pin "2"
+			(uuid "dfb4be2e-6230-452f-aed5-9909999438ad")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 198.12 52.07 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "212394a8-39fd-4fd6-9239-edf14d39cf5d")
+		(property "Reference" "D6"
+			(at 192.405 51.435 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 201.295 53.3399 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 202.565 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 198.12 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 198.12 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 198.12 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e56bf7ab-f9f5-4530-b19b-3fe877c307df")
+		)
+		(pin "1"
+			(uuid "e8f85cf3-62e3-4998-8d90-60082bbb9e0a")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 100.33 95.885 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2252144d-7944-40c7-9abf-0d42fd09d91f")
+		(property "Reference" "SW14"
+			(at 100.33 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 100.33 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 100.33 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 100.33 95.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "531f72b3-0aa1-4912-a5d8-30d3fe4b0e2a")
+		)
+		(pin "2"
+			(uuid "a36922ae-babf-4947-8bed-7cba76d2d78d")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 156.21 112.395 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "249f1d01-b8a4-4de2-b20e-1bcdccaef90c")
+		(property "Reference" "SW31"
+			(at 156.21 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 156.21 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 156.21 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 156.21 112.395 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "858f42f4-a84d-4e0c-b7d1-75df251b7c4f")
+		)
+		(pin "2"
+			(uuid "44cd72f3-acce-4787-b15c-64cff88d480f")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW31")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Diode:1N4148WS")
 		(at 105.41 52.07 90)
@@ -367,10 +3107,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "27a18a05-0e0c-454e-a184-b1e31ec7e278")
 		(property "Reference" "D1"
-			(at 108.585 52.0699 90)
+			(at 99.695 51.435 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -464,6 +3203,4422 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 174.625 64.135 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2991e045-439f-4ad8-82d7-0b08cee42565")
+		(property "Reference" "SW11"
+			(at 174.625 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 174.625 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 174.625 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 174.625 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 174.625 64.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f9172d8b-9630-4ce5-9163-6e329a90650a")
+		)
+		(pin "2"
+			(uuid "bd5bb458-8672-4541-9221-de73b774a497")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 123.825 99.695 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2b41daea-d6e9-4888-bf49-49e5fb03f52d")
+		(property "Reference" "D16"
+			(at 118.11 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 100.9649 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 128.27 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 123.825 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 123.825 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 123.825 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 123.825 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c4c1143b-ae3f-46c3-8335-172ccc64b5a7")
+		)
+		(pin "1"
+			(uuid "132a83ea-fb68-4c4e-93cb-9b5b8eeeb4ef")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 161.29 99.695 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2e0bb5cb-1321-4ea4-8763-c392935fb149")
+		(property "Reference" "D20"
+			(at 155.575 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 164.465 100.9649 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 165.735 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 161.29 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 161.29 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 161.29 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 161.29 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f4c95751-74d5-42a8-a126-f5b94ae076d0")
+		)
+		(pin "1"
+			(uuid "8333861b-0324-4ef1-985f-d69122b1ea24")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 137.795 95.885 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3072ab2a-7a37-4e95-80e9-41851a2897b4")
+		(property "Reference" "SW18"
+			(at 137.795 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 137.795 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 137.795 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.795 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 137.795 95.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9a6b2899-13ab-466f-a3a9-cb8d51893a91")
+		)
+		(pin "2"
+			(uuid "058d4cb6-80c6-4a29-91f1-d7c4614d27c5")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 137.795 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "321b4ad9-7883-4e8f-a0e3-e6a791f5d49f")
+		(property "Reference" "SW30"
+			(at 137.795 123.825 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 137.795 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 137.795 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.795 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 137.795 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dffb5fbf-65e6-4bc9-bfd7-1b18d603dfe7")
+		)
+		(pin "2"
+			(uuid "408a5f8a-49be-4087-91a8-c04fbd82c246")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 156.21 64.135 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "33bca365-eca0-4f69-a838-8084ef7a0e61")
+		(property "Reference" "SW10"
+			(at 156.21 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 156.21 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 156.21 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 156.21 64.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "952090ed-a818-4e23-8c32-1a3965b4d820")
+		)
+		(pin "2"
+			(uuid "3e268e92-3ff6-4f61-9339-1e0a400cf86e")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 142.875 99.695 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3e3b68f2-8f30-49eb-8022-e88c502dd6ad")
+		(property "Reference" "D18"
+			(at 137.16 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 146.05 100.9649 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 147.32 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 142.875 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 142.875 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 142.875 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 142.875 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d62260ae-82dc-426c-b019-6591771df4e5")
+		)
+		(pin "1"
+			(uuid "6f4b2c3e-af66-4510-949b-0f1622bda1c9")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 198.12 132.08 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3fdb5f26-e5ca-476b-94f0-cd1404105830")
+		(property "Reference" "D36"
+			(at 192.405 131.445 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 201.295 133.3499 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 202.565 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 198.12 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 198.12 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 198.12 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "51141ae5-9f62-44b1-95c2-d492c5d295ff")
+		)
+		(pin "1"
+			(uuid "7f7e5c04-76b3-4a01-ab75-a0991d9e5b38")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 142.875 116.205 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3ff9f040-6fa3-4381-a2db-6f3493643e90")
+		(property "Reference" "D29"
+			(at 137.16 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 146.05 117.4749 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 147.32 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 142.875 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 142.875 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 142.875 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 142.875 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1ff0b84a-f31d-4585-8d24-91722b2adbbb")
+		)
+		(pin "1"
+			(uuid "705aa425-c52b-4555-936f-0f848cf66ffb")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 174.625 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "434d0369-87d4-4f01-87b1-50a1c494b9e2")
+		(property "Reference" "SW34"
+			(at 174.625 123.825 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 174.625 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 174.625 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 174.625 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 174.625 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9581bcbc-49de-4de0-b5b8-aed34f254618")
+		)
+		(pin "2"
+			(uuid "6672126d-efe6-4b03-ab9a-6fbd6cba23fc")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 118.745 64.135 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "446a8a12-bb93-47d7-b911-3973fad2ac1a")
+		(property "Reference" "SW8"
+			(at 118.745 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 118.745 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 118.745 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.745 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 118.745 64.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bf1a4134-41ad-4b39-82c9-422973b52d19")
+		)
+		(pin "2"
+			(uuid "f3a448b8-7206-443d-a94a-aa16beeb7613")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 137.795 112.395 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "564113c6-8b68-432d-9967-c6765421a821")
+		(property "Reference" "SW29"
+			(at 137.795 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 137.795 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 137.795 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.795 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 137.795 112.395 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "be90e94f-85ec-4cbe-8980-2161a2d73e1d")
+		)
+		(pin "2"
+			(uuid "cc25fdab-7515-4290-8135-ea96f978b5d6")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 156.21 95.885 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "598e0c4f-1075-4d79-87e2-5eeba6037664")
+		(property "Reference" "SW20"
+			(at 156.21 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 156.21 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 156.21 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 156.21 95.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0bafa26f-a542-4360-8944-14803bf1fc00")
+		)
+		(pin "2"
+			(uuid "9c4b781f-e2d1-472a-a235-0353976af6bd")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 156.21 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5e4d45ed-2c8f-44bb-9487-58e8d2e0b9b1")
+		(property "Reference" "SW4"
+			(at 156.21 43.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 156.21 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 156.21 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 156.21 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ba6f5832-e19e-4a66-a51e-e47d5b9a637a")
+		)
+		(pin "2"
+			(uuid "bd8607cd-ca4a-44e4-bbb8-ef96c71da453")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 137.795 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5ec3fdad-c53a-4c19-85c6-bf2f3d3a168e")
+		(property "Reference" "SW3"
+			(at 137.795 43.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 137.795 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 137.795 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.795 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 137.795 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9bacbfd1-f15b-492e-aa27-165cf4679ff5")
+		)
+		(pin "2"
+			(uuid "f92b5ec8-99b0-4b37-acc8-50ace8a1340d")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 118.745 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5fa3c28c-b312-49bc-89be-658de583a416")
+		(property "Reference" "SW28"
+			(at 118.745 123.825 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 118.745 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 118.745 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.745 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 118.745 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "28816d05-71f6-4307-9317-5d96dca6376b")
+		)
+		(pin "2"
+			(uuid "1c92fdde-115c-4aa6-8cac-65abcdfb5665")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 193.04 112.395 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "61209338-9f55-4d37-9b12-cfdb5908dea2")
+		(property "Reference" "SW35"
+			(at 193.04 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 193.04 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 193.04 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 112.395 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a4de5117-1374-4379-bf43-1c678dd08853")
+		)
+		(pin "2"
+			(uuid "a8119c52-d908-4180-b3ab-0c4e9b435849")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 179.705 52.07 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "67c6a893-f81b-46cd-9bd8-074a8a0b18ff")
+		(property "Reference" "D5"
+			(at 173.99 51.435 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 182.88 53.3399 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 184.15 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 179.705 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 179.705 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 179.705 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 179.705 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4d1989c5-095f-4bdc-a716-e83f9cabad89")
+		)
+		(pin "1"
+			(uuid "1100b335-4f34-4f5c-8964-4f4d4ae48a05")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 161.29 116.205 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6a1dbb87-3141-43a9-a05c-80440e25b86e")
+		(property "Reference" "D31"
+			(at 155.575 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 164.465 117.4749 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 165.735 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 161.29 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 161.29 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 161.29 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 161.29 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "670b1dca-fa0c-42fa-9c7b-f5cd71271237")
+		)
+		(pin "1"
+			(uuid "0935eddd-1bb9-428c-880e-5e5af36cd37a")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 161.29 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6e22f102-a4c3-4d52-955f-85f32273a9fa")
+		(property "Reference" "D19"
+			(at 155.575 83.185 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 164.465 85.0899 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 165.735 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 161.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 161.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 161.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 161.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "67bc23fb-e53b-4e81-8bdb-e79a222304ce")
+		)
+		(pin "1"
+			(uuid "a0a4f385-83bc-42dd-929a-493f32428c3e")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 123.825 67.945 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7085ba55-8230-47e4-8e1e-bfbbb1a2ee69")
+		(property "Reference" "D8"
+			(at 118.11 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 69.2149 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 128.27 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 123.825 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 123.825 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 123.825 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 123.825 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "229a0af2-dd46-44aa-bb1f-cae0624cd4b5")
+		)
+		(pin "1"
+			(uuid "38ae2f37-d74d-4dcf-bc64-1811b2c64c62")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 123.825 132.08 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "76bd64dc-39ec-4874-ac19-37c319cd943e")
+		(property "Reference" "D28"
+			(at 118.11 131.445 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 133.3499 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 128.27 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 123.825 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 123.825 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 123.825 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 123.825 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b1a26efe-8c7d-45c5-8e9b-6833e4abc412")
+		)
+		(pin "1"
+			(uuid "e21584c8-fed5-48d5-92f2-b754cffb36fe")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 179.705 116.205 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7a0be650-5848-4e34-9e07-ff85c31a7e3d")
+		(property "Reference" "D33"
+			(at 173.99 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 182.88 117.4749 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 184.15 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 179.705 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 179.705 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 179.705 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 179.705 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "20da6e3b-9a02-4a35-abc5-a7e8c85a009b")
+		)
+		(pin "1"
+			(uuid "69e27e44-ad13-41e7-9d84-19725744f263")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 193.04 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7b692baf-feea-49c5-a326-cb2166147582")
+		(property "Reference" "SW36"
+			(at 193.04 123.825 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 193.04 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 193.04 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aec5ab07-f236-4584-80e6-13ef911b6aae")
+		)
+		(pin "2"
+			(uuid "baf20fec-cce2-434a-9fbc-8cd28a50f179")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 179.705 99.695 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7eb18607-b94f-46a1-92e1-60088cc825b0")
+		(property "Reference" "D22"
+			(at 173.99 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 182.88 100.9649 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 184.15 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 179.705 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 179.705 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 179.705 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 179.705 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8f88b652-7b0e-4c52-b10a-dadd84572e95")
+		)
+		(pin "1"
+			(uuid "4c84c5fb-6c49-4d39-ae6f-1ad1a2b6c46b")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 105.41 116.205 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "809b2c18-d72b-4dcb-b422-14fc2460cb17")
+		(property "Reference" "D25"
+			(at 99.695 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 108.585 117.4749 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 109.855 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 105.41 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 105.41 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 105.41 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "37e7817c-8151-4f1f-aceb-ca6b027df280")
+		)
+		(pin "1"
+			(uuid "b5106633-c020-4abb-8110-e744d115506f")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 161.29 67.945 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "815abf91-6228-4d36-bbaf-9dc239d0e106")
+		(property "Reference" "D10"
+			(at 155.575 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 164.465 69.2149 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 165.735 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 161.29 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 161.29 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 161.29 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 161.29 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b051a177-9751-421d-9ecd-e25e771e6596")
+		)
+		(pin "1"
+			(uuid "7e30c509-278a-4465-8e16-62a14f6c2f5d")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 198.12 67.945 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "84304e74-f2d0-4766-855d-4572f41b688b")
+		(property "Reference" "D12"
+			(at 192.405 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 201.295 69.2149 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 202.565 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 198.12 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 198.12 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 198.12 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4679846e-433b-40cd-8d57-f94f3c47cdf5")
+		)
+		(pin "1"
+			(uuid "f1c8ff76-7187-4edd-9081-029305969db2")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 105.41 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8625fdb4-7f42-4673-b44c-04719db680e1")
+		(property "Reference" "D13"
+			(at 99.695 83.185 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 108.585 85.0899 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 109.855 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 105.41 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 105.41 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 105.41 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2573bf51-3578-4cdb-a51f-8a56ee6115f5")
+		)
+		(pin "1"
+			(uuid "36a8ed89-07c9-49d3-bfb9-e7cd15e6afa6")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 105.41 67.945 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8a799c33-5278-4ba7-9a1c-f3b59c4ca3bc")
+		(property "Reference" "D7"
+			(at 99.695 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 108.585 69.2149 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 109.855 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 105.41 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 105.41 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 105.41 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d3e67899-7285-47be-8e84-3b27ee957dbf")
+		)
+		(pin "1"
+			(uuid "c4c7f872-d801-4601-b59b-a826f2a2e714")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 100.33 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8d1ad511-bf4b-4883-83e8-d04951fc3230")
+		(property "Reference" "SW13"
+			(at 100.33 75.565 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 100.33 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 100.33 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 100.33 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1337e2d0-2957-4e6e-943c-cbcbf13ee4a2")
+		)
+		(pin "2"
+			(uuid "177a2f87-9f1e-448b-b6f4-1e6f7c82773d")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 100.33 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9198090e-9141-4875-89e3-a03a99534562")
+		(property "Reference" "SW26"
+			(at 100.33 123.825 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 100.33 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 100.33 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 100.33 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "50c70d4c-c185-4aad-b22d-f211e587897c")
+		)
+		(pin "2"
+			(uuid "05669134-9c5f-49bc-8ee7-8e5893c8a4bc")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 118.745 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "942dd553-98ca-44c2-a5e5-9756b171a4d7")
+		(property "Reference" "SW2"
+			(at 118.745 43.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 118.745 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 118.745 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.745 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 118.745 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4e9d9946-bcd7-4154-b968-59ad621f247c")
+		)
+		(pin "2"
+			(uuid "7126e710-8877-4531-96e8-1a7d079d2f70")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 118.745 112.395 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "96fd9274-eab8-4328-9bf3-c42c5dd87315")
+		(property "Reference" "SW27"
+			(at 118.745 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 118.745 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 118.745 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.745 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 118.745 112.395 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6ae1fda1-fa9b-4273-bbf5-bc6134ed6f9a")
+		)
+		(pin "2"
+			(uuid "20d6efbf-8758-4e39-8dbb-c3582e782fc1")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 198.12 116.205 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "98eca7ec-eb5d-472a-8281-6a091b03d2f7")
+		(property "Reference" "D35"
+			(at 192.405 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 201.295 117.4749 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 202.565 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 198.12 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 198.12 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 198.12 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f4c831a8-da5a-489d-887e-365828eef833")
+		)
+		(pin "1"
+			(uuid "7c0d3b25-a19d-40d2-827b-bd01ce013e35")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 156.21 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9c512988-73d4-4672-8014-f8dfaf287dbc")
+		(property "Reference" "SW32"
+			(at 156.21 123.825 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 156.21 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 156.21 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 156.21 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0c17673b-7563-4c2f-8bf3-69f20ad4e14f")
+		)
+		(pin "2"
+			(uuid "d7c7668a-4315-40fe-bd24-f7632cbe0d46")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 100.33 112.395 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f2e616c-0ceb-45a6-b610-d2e213fd7002")
+		(property "Reference" "SW25"
+			(at 100.33 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 100.33 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 100.33 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 100.33 112.395 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4b4e779c-5727-4fdc-af4e-c0ec11d446cc")
+		)
+		(pin "2"
+			(uuid "667f526b-7563-4936-8b7d-aa6fd30f878d")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 193.04 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "abcc62a4-fcd3-4734-a0e5-fa3cfa45c59f")
+		(property "Reference" "SW23"
+			(at 193.04 75.565 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 193.04 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 193.04 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cd58e689-68b5-4381-819f-417830da6b49")
+		)
+		(pin "2"
+			(uuid "0dffeaac-1482-47db-b533-d31be9c4c812")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 174.625 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "af4dc38f-0821-40e2-84c8-40b8593ef018")
+		(property "Reference" "SW21"
+			(at 174.625 75.565 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 174.625 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 174.625 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 174.625 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 174.625 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3c00f156-3def-47a0-9002-13f07e87414f")
+		)
+		(pin "2"
+			(uuid "21a3bdd3-0792-4ba8-b466-87db10e41087")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 105.41 132.08 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b5bf0b42-cab9-4fc9-a3a1-d9c89340ef29")
+		(property "Reference" "D26"
+			(at 99.695 131.445 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 108.585 133.3499 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 109.855 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 105.41 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 105.41 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 105.41 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "58d3683a-4477-4031-8643-757cfa2937a1")
+		)
+		(pin "1"
+			(uuid "faae354f-1f64-41de-b59d-cb71266d6340")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 174.625 112.395 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b5e33978-09d1-4e2a-9934-8fb8ab52860d")
+		(property "Reference" "SW33"
+			(at 174.625 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 174.625 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 174.625 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 174.625 107.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 174.625 112.395 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "436f612a-04af-4819-a29e-d31cf0c36e5b")
+		)
+		(pin "2"
+			(uuid "7957ee60-1ec2-4796-98c3-5994df87ee7b")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 123.825 116.205 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bac24077-2ca8-4cbb-b1ce-bb0b1aa93300")
+		(property "Reference" "D27"
+			(at 118.11 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 117.4749 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 128.27 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 123.825 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 123.825 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 123.825 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 123.825 116.205 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4fcbcfb5-4033-4b07-b6ce-8bc86a50424a")
+		)
+		(pin "1"
+			(uuid "833452ee-b89b-4632-b5fa-aef5b0e60933")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 105.41 99.695 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bc0c3592-3755-4af7-b573-efee005c58a5")
+		(property "Reference" "D14"
+			(at 99.695 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 108.585 100.9649 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 109.855 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 105.41 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 105.41 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 105.41 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 99.695 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6b34b9cb-9798-4f0a-b1d1-42460d5f2a94")
+		)
+		(pin "1"
+			(uuid "f0f648c0-759f-46f5-825c-1e31ca5eafe0")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 179.705 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c3cfca59-0d9e-46fc-9828-6a5d0061d992")
+		(property "Reference" "D21"
+			(at 173.99 83.185 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 182.88 85.0899 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 184.15 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 179.705 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 179.705 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 179.705 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 179.705 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "195e5ae1-6615-4d30-a081-64a55a4cc7f0")
+		)
+		(pin "1"
+			(uuid "0190b913-af8d-4ed0-bdeb-06c3528384dc")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 161.29 52.07 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c5eeab8e-931d-4953-beb3-b0ee0c0bcf0f")
+		(property "Reference" "D4"
+			(at 155.575 51.435 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 164.465 53.3399 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 165.735 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 161.29 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 161.29 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 161.29 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 161.29 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ea64a236-c4f6-4aa7-9f34-e95962191c8f")
+		)
+		(pin "1"
+			(uuid "d470d700-db80-4e37-a9b5-517b565db743")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 174.625 95.885 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c803c07a-f660-469a-b5bd-d95af1aa789e")
+		(property "Reference" "SW22"
+			(at 174.625 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 174.625 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 174.625 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 174.625 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 174.625 95.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cc0049e8-76b3-4177-b2ba-b59fc755721d")
+		)
+		(pin "2"
+			(uuid "94ca344d-2ba7-4222-855d-3ec0536deb1b")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 142.875 52.07 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c87c80b9-b9fc-4ed0-a9f0-d1393b43b283")
+		(property "Reference" "D3"
+			(at 137.16 51.435 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 146.05 53.3399 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 147.32 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 142.875 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 142.875 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 142.875 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 142.875 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e7064a99-07f6-45f8-998b-7146d2fab4fb")
+		)
+		(pin "1"
+			(uuid "5cb48d2c-d82f-4176-bf68-81abfd480bb2")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 174.625 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cc730b98-95eb-4f40-8020-f3aa30d2d613")
+		(property "Reference" "SW5"
+			(at 174.625 43.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 174.625 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 174.625 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 174.625 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 174.625 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1d9dc16a-a125-4879-8d4f-684d8bc491d0")
+		)
+		(pin "2"
+			(uuid "4fe92e56-4e2b-403e-a12b-a791ffde8002")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 100.33 48.26 0)
 		(unit 1)
 		(body_style 1)
@@ -472,10 +7627,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cc9639df-6428-4300-a2cf-2321be7a4f87")
 		(property "Reference" "SW1"
-			(at 100.33 40.64 0)
+			(at 100.33 43.815 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -486,6 +7640,7 @@
 		)
 		(property "Value" "SW_Push"
 			(at 100.33 43.18 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -494,7 +7649,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "button:SW_TL3315NF250Q"
 			(at 100.33 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -537,6 +7692,1030 @@
 			(project "SpyderDumbKeyboard"
 				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 193.04 64.135 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ccbfe1ca-daff-4bbc-9381-738bfffbe13e")
+		(property "Reference" "SW12"
+			(at 193.04 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 193.04 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 193.04 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 64.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f251f2c8-6b92-4388-87b6-f887c1a95466")
+		)
+		(pin "2"
+			(uuid "e786e955-8365-4205-8384-6b786deec2ae")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 193.04 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d74b9907-8710-4e47-8754-b6b770593ff4")
+		(property "Reference" "SW6"
+			(at 193.04 43.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 193.04 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 193.04 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "972cd86e-6dc6-4d19-99bf-bdcc16680476")
+		)
+		(pin "2"
+			(uuid "ec23b309-946f-44c9-8ebb-690d73841c96")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 142.875 132.08 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "db8ebcc4-40e1-4140-873f-086f17dc3ba8")
+		(property "Reference" "D30"
+			(at 137.16 131.445 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 146.05 133.3499 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 147.32 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 142.875 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 142.875 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 142.875 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 142.875 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c1284d80-cd33-4a1d-8c36-ec317cfaa5ed")
+		)
+		(pin "1"
+			(uuid "f5a114f9-6458-4e08-9f9f-cfc725f77ce7")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 137.795 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "de3d2202-e2c3-4720-9f21-c856ba4a3be8")
+		(property "Reference" "SW17"
+			(at 137.795 75.565 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 137.795 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 137.795 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.795 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 137.795 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2bb2776a-030a-43c9-9461-6609fb0ad20e")
+		)
+		(pin "2"
+			(uuid "7ea4e782-03a2-4ae3-9ce1-524a81bc7d72")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 142.875 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "df628b13-cfa5-4cd9-a6aa-4e9e95eca6c2")
+		(property "Reference" "D17"
+			(at 137.16 83.185 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 146.05 85.0899 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 147.32 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 142.875 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 142.875 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 142.875 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 142.875 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "903f1859-8593-4f5b-96d2-c9f3e13d0337")
+		)
+		(pin "1"
+			(uuid "c892d9cc-dd7b-429a-9228-04da03be83a7")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 142.875 67.945 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "eed089e6-75fe-4dd7-a78a-fdbcb2801739")
+		(property "Reference" "D9"
+			(at 137.16 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 146.05 69.2149 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 147.32 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 142.875 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 142.875 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 142.875 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 142.875 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "474bd35b-0600-4fec-ade9-b3ecf43f2986")
+		)
+		(pin "1"
+			(uuid "3260f154-a99e-4134-9cb3-ccad9fb23a2a")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 193.04 95.885 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f074c28e-756f-469e-b94a-ee1da13fa278")
+		(property "Reference" "SW24"
+			(at 193.04 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 193.04 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 193.04 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 95.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "300a0049-6c79-472a-a324-f784e657fe1a")
+		)
+		(pin "2"
+			(uuid "aba22ebb-39a7-46dd-bc49-3f4d03e3fdda")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 123.825 52.07 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f091cf9d-7e10-43cb-acf7-470b73f8eee9")
+		(property "Reference" "D2"
+			(at 118.11 51.435 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 53.3399 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 128.27 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 123.825 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 123.825 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 123.825 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 123.825 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6c5643fc-b2fa-4170-9145-d057f8316138")
+		)
+		(pin "1"
+			(uuid "bc422b96-499f-4cfa-b0e3-d341e7c34437")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 123.825 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f1b5e7a1-b718-43f2-9968-046626986b16")
+		(property "Reference" "D15"
+			(at 118.11 83.185 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 85.0899 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 128.27 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 123.825 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 123.825 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 123.825 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 123.825 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f21076b3-bbc7-4cc9-ae68-8c5e99060ebe")
+		)
+		(pin "1"
+			(uuid "9147e2ee-3002-4720-b0d9-33a4f6195301")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 198.12 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fabc5fb5-d26d-4d9f-9337-34ff1541b8f2")
+		(property "Reference" "D23"
+			(at 192.405 83.185 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 201.295 85.0899 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 202.565 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 198.12 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
+			(at 198.12 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 198.12 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "df5bba64-183a-4232-a773-0ce89589b36c")
+		)
+		(pin "1"
+			(uuid "9ece0b14-b585-4232-b1e5-3488ea64294f")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "D23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 137.795 64.135 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fd1f18a7-8f0c-43ac-809c-88bdef32d0d4")
+		(property "Reference" "SW9"
+			(at 137.795 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 137.795 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "button:SW_TL3315NF250Q"
+			(at 137.795 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.795 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 137.795 64.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e99a8ac9-a685-4b60-9ae5-66dc206a2a49")
+		)
+		(pin "2"
+			(uuid "e4f562a0-b2d5-4d12-bd77-550655c0915d")
+		)
+		(instances
+			(project "SpyderDumbKeyboard"
+				(path "/ce9647c5-4055-4966-bbb5-59d57ff5b96b/ce199e18-2c9f-4f85-a3a7-14f44755722a"
+					(reference "SW9")
 					(unit 1)
 				)
 			)
